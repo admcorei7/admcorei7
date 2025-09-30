@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I’m Adam — @admcorei7
+
+### 🚀 Tagline: robotics, UI/UX, html, mekatronika
+
+---
+
+### 👨‍🎓 About Me
+- **College Student** majoring in **Electronics Engineering**
+- Passionate about **robotics** and **aerospace/astro**
+- Blending creativity and technology to build the future!
+
+---
+
+### 🛠️ Top Skills
+- **UI/UX Design**
+- **Website Development** (HTML/CSS/JS)
+- **PCB Design**
+- **Mekatronika** (Mechatronics)
+
+---
+
+### 🌟 Favorite Project
+**🤖 Robotics Projects**
+- Designing, building, and programming robots for fun and competitions!
+- Love integrating hardware and software for smart, interactive systems.
+
+---
+
+### 📫 Connect with Me
+- [Instagram: @adam_wlls](https://instagram.com/adam_wlls)
+
+---
+
+### ⚡ Fun Facts
+- Super curious about **space technology** and how robotics can help us explore beyond Earth.
+- Always up for collaborating on tech & design projects!
+
+---
 
 <!--
-**admcorei7/admcorei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Let's build, innovate, and make a difference together!
 -->
