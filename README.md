@@ -4,7 +4,6 @@
 
 --- 
 🚀 robotics, UI/UX , mekatronika, open source 
-
 --- 
 👨‍🎓 About Me
 - **College Student** majoring in **Electronics Engineering**
