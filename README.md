@@ -1,6 +1,7 @@
 👋 Hi, I’m Adam — @admcorei7
 
 ![guts-berserker-armor-monochrome-moewalls-com (1) (1) (1) (1) (1)](https://github.com/user-attachments/assets/dc48d622-9d1d-4797-9e32-3a8930578838)
+
 🚀 robotics, UI/UX , mekatronika, open source 
 
 --- 
