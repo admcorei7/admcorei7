@@ -3,7 +3,7 @@
 ![guts-berserker-armor-monochrome-moewalls-com (1) (1) (1) (1) (1)](https://github.com/user-attachments/assets/dc48d622-9d1d-4797-9e32-3a8930578838)
 
 --- 
-🚀 robotics, UI/UX , mekatronika, open source 
+🚀 electronics, mechatronics, UI/UX , robotics, open source code
 --- 
 👨‍🎓 About Me
 - **College Student** majoring in **Electronics Engineering**
@@ -14,7 +14,7 @@
 - **UI/UX Design**
 - **Website Development** (HTML/CSS/JS)
 - **PCB Design**
-- **Mekatronika** (Mechatronics)
+- **Mechatronics**
 ---
 🌟 Favorite Project
 **🤖 Robotics Projects**
