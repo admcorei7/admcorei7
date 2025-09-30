@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Adam — @admcorei7
+https://github.com/user-attachments/assets/0bfd828b-0499-4cd1-9637-126e75c02dc8
 
-### 🚀 Tagline: robotics, UI/UX, html, mekatronika
+### 🚀 Tagline: robotics, UI/UX , mekatronika, open source
 
 ---
+
 
 ### 👨‍🎓 About Me
 - **College Student** majoring in **Electronics Engineering**
