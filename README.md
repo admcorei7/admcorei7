@@ -14,6 +14,7 @@
 - **UI/UX Design**
 - **Website Development** (HTML/CSS/JS)
 - **PCB Design**
+- **electronics**
 - **Mechatronics**
 ---
 🌟 Favorite Project
