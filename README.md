@@ -8,7 +8,7 @@
 --- 
 👨‍🎓 About Me
 - **College Student** majoring in **Electronics Engineering**
-- Passionate about **robotics** and **aerospace/astronomi**
+- Passionate about **robotics** and **aerospace/astronomy**
 - Blending creativity and technology to build the future!
 ---
 🛠️ Top Skills
