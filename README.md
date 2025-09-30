@@ -6,7 +6,7 @@
 
 ### 👨‍🎓 About Me
 - **College Student** majoring in **Electronics Engineering**
-- Passionate about **robotics** and **aerospace/astro**
+- Passionate about **robotics** and **aerospace/astronomi**
 - Blending creativity and technology to build the future!
 
 ---
